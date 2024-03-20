@@ -9,7 +9,7 @@ Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE MVC / PYTHON / DJANGO / MATE
 - 👯 I’m looking to collaborate on React projects, C# and ASP.NET core web applications and django projects.. 
 - 🤔 I’m looking for help with coding advice, side projects and roadmaps 
 - 💬 Ask me about React problems, C# related projects and Javascript 
-- 📫 How to reach me: LinkedIn: [https://www.facebook.com/banjo.micheal.71/](https://www.linkedin.com/in/michael-banjo-882a77258/), Whatsapp: 09083098319, Dev.to: Keizzmann, X: @keizzmannbanjo 
+- 📫 How to reach me: LinkedIn: (https://www.linkedin.com/in/michael-banjo-882a77258/), Whatsapp: 09083098319, Dev.to: Keizzmann, X: @keizzmannbanjo 
 - 😄 Pronouns: Anyone you can think of...  
 - ⚡ Fun fact: I am the most interesting introvert you might never know, if you don't reach out 
 
