@@ -2,7 +2,7 @@
 #### I am from Lagos, Nigeria.
 I am an aspiring web developer, that utilizes tools to build web applications. 
 
-Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE MVC / PYTHON / DJANGO / MATERIAL UI
+Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE/ PYTHON / DJANGO / MATERIAL UI
 
 - 🔭 I’m currently working on backend development with asp.net core and .net  
 - 🌱 I’m currently learning C# programming language, how to build API with C#, cloud development with AWS 
