@@ -22,10 +22,4 @@ Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE / .NET
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keizzmannbanjo&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Keizzmannbanjo)  
-
-![GitHub metrics](https://metrics.lecoq.io/Keizzmannbanjo)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Keizzmannbanjo)  
-
-![Profile views](https://gpvc.arturio.dev/Keizzmannbanjo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Keizzmannbanjo)   
