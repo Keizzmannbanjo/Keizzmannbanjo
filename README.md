@@ -2,13 +2,13 @@
 #### I am from Lagos, Nigeria.
 I am an aspiring web developer, that utilizes tools to build web applications. 
 
-Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE/ PYTHON / DJANGO / MATERIAL UI
+Skills: REACT / HTML / CSS / JS / C# / ASP.NET CORE / .NET
 
-- 🔭 I’m currently working on backend development with asp.net core and .net  
-- 🌱 I’m currently learning C# programming language, how to build API with C#, cloud development with AWS 
-- 👯 I’m looking to collaborate on React projects, C# and ASP.NET core web applications and django projects.. 
-- 🤔 I’m looking for help with coding advice, side projects and roadmaps 
-- 💬 Ask me about React problems, C# related projects and Javascript 
+- 🔭 I currently work on developing backend web APIs using .NET Web Api toolkits 
+- 🌱 I build fullstack applications with frontend Javascript frameworks such as React, React Native and backend tools in the .NET ecosystem.
+- 👯 I’m looking to collaborate on React projects, C# and ASP.NET core web applications and mobile apps .. 
+- 🤔 I’m looking for help with software design and architecture principles and guidelines. 
+- 💬 Ask me about React problems, C# related projects and Javascript.
 - 📫 How to reach me: LinkedIn: (https://www.linkedin.com/in/michael-banjo-882a77258/), Whatsapp: 09083098319, Dev.to: Keizzmann, X: @keizzmannbanjo 
 - 😄 Pronouns: Anyone you can think of...  
 - ⚡ Fun fact: I am the most interesting introvert you might never know, if you don't reach out 
